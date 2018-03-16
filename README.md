@@ -5,4 +5,5 @@ cocos lua
 c++
 
 Add first game edit online
-edit local --LuaGame
+edit local --LuaGame offline
+test conf -- online luagame
