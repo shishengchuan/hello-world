@@ -5,3 +5,4 @@ cocos lua
 c++
 
 Add first game edit online
+test conf
