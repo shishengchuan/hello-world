@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../cocos/platform/mac/cocos2d-prefix.pch \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuickprof.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h

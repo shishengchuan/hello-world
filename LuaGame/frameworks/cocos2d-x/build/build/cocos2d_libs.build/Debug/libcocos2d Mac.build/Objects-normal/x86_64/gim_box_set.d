@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../cocos/platform/mac/cocos2d-prefix.pch \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_box_set.cpp \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_box_set.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_array.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_memory.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_math.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_radixsort.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_box_collision.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_basic_geometry_operations.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_linear_math.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_geom_types.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_tri_collision.h \
+  /Users/shishengchuan/cocos2dxtest/LuaGame/frameworks/cocos2d-x/external/bullet/BulletCollision/Gimpact/gim_clip_polygon.h
